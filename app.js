@@ -1,6 +1,7 @@
+// nodemon app.js (to start project!)
 const express = require("express");
 const https = require("https");
-// body parser needed for form post data resive 
+// body parser needed for form post data recive 
 const bodyParser = require("body-parser");
 
 const app = express();
